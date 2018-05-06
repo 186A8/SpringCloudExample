@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "zipkin.collector.rabbitmq.addresses",
+      "type": "java.lang.String",
+      "description": "Description for zipkin.collector.rabbitmq.addresses."
+    }
+] }
